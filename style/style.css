@@ -1,0 +1,49 @@
+body {
+  background-color: #fff;
+  transition: 1s;
+}
+
+.navbar a {
+  color: #0d0d0d;
+  transition: 1s;
+}
+
+.quotes {
+  color: #0d0d0d;
+  text-align: center;
+  margin-top: 150px;
+  font-weight: bold;
+  font-size: 55px;
+  transition: 1s;
+}
+
+.bg {
+  background-color: #0d0d0d;
+  transition: 1s;
+}
+
+.dark-mode .navbar a {
+  transition: 1s;
+  color: #fff;
+}
+
+.dark-mode .quotes {
+  color: #fff;
+  text-align: center;
+  margin-top: 150px;
+  font-weight: bold;
+  font-size: 55px;
+  transition: 1s;
+}
+
+.dark-mode .newQ {
+  background-color: #fff;
+  color: #0d0d0d;
+  transition: 1s;
+}
+
+.dark-mode .darkmode {
+  background-color: #fff;
+  color: #0d0d0d;
+  transition: 1s;
+}
