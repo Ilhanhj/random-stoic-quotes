@@ -105,3 +105,21 @@ input:checked + .slider:before {
   /* change the value of second inset in box-shadow to change the angle and direction of the moon  */
   box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
 }
+
+@font-face {
+  font-family: "Font Digital";
+  src: url("../style/BASILEUS.TTF");
+}
+
+.navbar a {
+  font-family: "Font Digital";
+}
+
+@font-face {
+  font-family: "Font Digital 2";
+  src: url("../style//Rantera.otf");
+}
+
+.quotes {
+  font-family: "Font Digital 2";
+}
